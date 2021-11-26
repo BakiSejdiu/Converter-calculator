@@ -1,0 +1,30 @@
+body {
+    background-color: #0d6efd !important;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #0d6efd !important;
+}
+
+
+label {
+    font-size: 18px;
+    color: #0d6efd;
+    font-weight: bold;
+}
+
+input {
+    height: 43px;
+    margin-top: 7px;
+}
+
+button.btn.btn-primary {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.btn {
+    width: 100%;
+}
